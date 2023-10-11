@@ -1,0 +1,24 @@
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
+
+# Arquivos de backup, log, etc.
+*.bak
+*.log
+
+# Arquivos do PgAdmin4
+/pgadmin4.db
+/pgadmin4.log
+
+# Arquivos de ambiente virtual Python
+venv/
+*.pyc
+
+# Arquivos do PostgreSQL
+*.dump
+
+# Outros arquivos e diretórios ignorados comumente
+node_modules/
+npm-debug.log
+.idea/
+.vscode/
